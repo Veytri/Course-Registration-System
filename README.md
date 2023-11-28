@@ -24,3 +24,6 @@ This Course Registration System is a C++ application developed for managing stud
 
 # Contributions
 Veytri, Jason, Wen Yee
+
+# License
+MIT License
